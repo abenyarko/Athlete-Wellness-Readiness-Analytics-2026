@@ -4,8 +4,6 @@
 **Longitudinal Analytics | Survey Statistics | Data Quality | Statistical Modeling | Decision Support | R**
 
 ---
-Longitudinal athlete wellness and readiness analytics using R, survey-weighted statistics, individualized Z-scores, and weekly performance monitoring to support evidence-based decision-making.
----
 
 Transforming repeated athlete wellness observations into an evidence-based framework for understanding individual variation, identifying meaningful changes, and supporting operational decision-making.
 
